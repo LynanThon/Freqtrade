@@ -1,0 +1,2 @@
+# Freqtrade
+Freqtrade
